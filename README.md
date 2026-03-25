@@ -18,12 +18,10 @@ Front-End Developer focused on building modern, responsive and user-friendly int
 
 ## 🛠 Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend :** Node.js
-* **Database :** SQLite
-* **Tools:** Git, GitHub, VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,sqlite,git,github,vscode"/>
+</p>
 
----
 
 ## 🚀 Projects
 
