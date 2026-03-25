@@ -19,8 +19,8 @@ Front-End Developer focused on building modern, responsive and user-friendly int
 ## 🛠 Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
-* **Backend (basic):** Node.js
-* **Database (basic):** SQLite
+* **Backend :** Node.js
+* **Database :** SQLite
 * **Tools:** Git, GitHub, VS Code
 
 ---
