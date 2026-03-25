@@ -1,36 +1,72 @@
-# 👋 Olá, eu sou o Kauan Borges (BG)
+# Kauan Borges (BG)
 
-💻 Desenvolvedor Web Front-End 
-🚀 Focado em criar projetos reais e úteis  
-📍 Rj, Brasil
+Front-End Developer focused on building modern, responsive and user-friendly interfaces.
 
+📍 Rio de Janeiro, Brazil
 
-## 🛠 Tecnologias
+---
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite)
+## 👨‍💻 About Me
 
-## 📊 Estatísticas
+* 💻 Front-End Developer (HTML, CSS, JavaScript)
+* 🎨 Focused on clean UI and good user experience
+* 🚀 Building real-world projects
+* 📚 Currently improving JavaScript and front-end architecture
+* 🎯 Looking for my first opportunity as a developer
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kauanbg-dev&show_icons=true&theme=dark)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanbg-dev&layout=compact&theme=dark)
+## 🛠 Tech Stack
 
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend (basic):** Node.js
+* **Database (basic):** SQLite
+* **Tools:** Git, GitHub, VS Code
 
-## 🚀 Projetos
-- 💸 BG Converter → https://bgconverter.vercel.app/
-- 💸 BG Finance → https://bg-finance-delta.vercel.app/login.html  
-- 🌐 Meu Portfólio → https://portifolio-bgkauan.vercel.app
+---
 
+## 🚀 Projects
 
-## 🌎 Contato
+### 💱 BG Converter
 
-📧 Email: kauanbg.dev@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/kauan-borges-079074370/  
-🐙 GitHub: https://github.com/kauanbg-dev  
+Currency converter with real-time interface
+🔗 https://bgconverter.vercel.app/
 
+### 💸 BG Finance
 
-> "Transformando código em soluções reais."
+Financial management system with authentication and dashboard
+🔗 https://bg-finance-delta.vercel.app/login.html
+
+### 🌐 Portfolio
+
+Personal website to showcase my projects and skills
+🔗 https://portifolio-bgkauan.vercel.app
+
+---
+
+## 📈 Currently Learning
+
+* Advanced JavaScript
+* UI/UX Design principles
+* Front-end best practices
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kauanbg-dev\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanbg-dev\&layout=compact)
+
+---
+
+## 🌎 Contact
+
+* 💼 LinkedIn: https://www.linkedin.com/in/kauan-borges-079074370/
+* 📧 Email: [kauanbg.dev@gmail.com](mailto:kauanbg.dev@gmail.com)
+
+---
+
+## 💬 Summary
+
+Front-End Developer focused on creating clean, responsive and intuitive interfaces, always improving and building real projects.
