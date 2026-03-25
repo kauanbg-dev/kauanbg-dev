@@ -8,7 +8,7 @@ Front-End Developer focused on building modern, responsive and user-friendly int
 
 ## 👨‍💻 About Me
 
-* 💻 Front-End Developer (HTML, CSS, JavaScript)
+* 💻 Front-End Developer (HTML, CSS, JavaScript, React)
 * 🎨 Focused on clean UI and good user experience
 * 🚀 Building real-world projects
 * 📚 Currently improving JavaScript and front-end architecture
