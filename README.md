@@ -1,70 +1,27 @@
-# Kauan Borges (BG)
+# Kauan Borges
 
-Front-End Developer focused on building modern, responsive and user-friendly interfaces.
+Desenvolvedor front-end · Rio de Janeiro, RJ
 
-📍 Rio de Janeiro, Brazil
+Faço interfaces web responsivas com HTML, CSS, JavaScript, React e Node.js. Estou no 5º período de Ciência da Computação e publico os projetos que construo.
 
----
+**Portfólio:** [portifolio-bgkauan.vercel.app](https://portifolio-bgkauan.vercel.app/)
 
-## 👨‍💻 About Me
+## Stack
 
-* 💻 Front-End Developer (HTML, CSS, JavaScript, React)
-* 🎨 Focused on clean UI and good user experience
-* 🚀 Building real-world projects
-* 📚 Currently improving JavaScript and front-end architecture
-* 🎯 Looking for my first opportunity as a developer
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `Git` · `Vercel`
 
----
+## Projetos
 
-## 🛠 Tech Stack
+| Projeto | O que é | Link |
+| --- | --- | --- |
+| **Bala de Munich** | Site do time na Super Copa dos Streamers (elenco, chave, MVP, lives) | [site](https://balademunich.vercel.app/) |
+| **Achei Buscador** | CEP, feriados e bancos com React + BrasilAPI | [site](https://achei-buscador.vercel.app/) |
+| **BgConverter** | Conversor de câmbio com cotação ao vivo | [site](https://bgconverter.vercel.app/) |
+| **BG Finance** | Controle financeiro com login e dashboard | [site](https://bg-finance.onrender.com/) |
+| **Pratique + Pilates** | Site institucional de estúdio | [site](https://pratique-pilates.vercel.app/) |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,sqlite,git,github,vscode"/>
-</p>
+## Contato
 
-
-## 🚀 Projects
-
-### 💱 BG Converter
-
-Currency converter with real-time interface
-🔗 https://bgconverter.vercel.app/
-
-### 💸 BG Finance
-
-Financial management system with authentication and dashboard
-🔗 https://bg-finance-delta.vercel.app/login.html
-
-### 🌐 Portfolio
-
-Personal website to showcase my projects and skills
-🔗 https://portifolio-bgkauan.vercel.app
-
----
-
-## 📈 Currently Learning
-
-* Advanced JavaScript
-* UI/UX Design principles
-* Front-end best practices
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kauanbg-dev\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanbg-dev\&layout=compact)
-
----
-
-## 🌎 Contact
-
-* 💼 LinkedIn: https://www.linkedin.com/in/kauan-borges-079074370/
-* 📧 Email: [kauanbg.dev@gmail.com](mailto:kauanbg.dev@gmail.com)
-
----
-
-## 💬 Summary
-
-Front-End Developer focused on creating clean, responsive and intuitive interfaces, always improving and building real projects.
+- E-mail: [kauanbg.dev@gmail.com](mailto:kauanbg.dev@gmail.com)
+- LinkedIn: [linkedin.com/in/kauan-borges](https://www.linkedin.com/in/kauan-borges-079074370/)
+- GitHub: [github.com/kauanbg-dev](https://github.com/kauanbg-dev)
