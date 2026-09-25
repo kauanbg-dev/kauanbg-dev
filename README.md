@@ -14,12 +14,12 @@ Faço interfaces web responsivas com HTML, CSS, JavaScript, React e Node.js. Est
 
 | Projeto | O que é | Link |
 | --- | --- | --- |
-| **Bala de Munich** | Site do time na Super Copa dos Streamers (elenco, chave, MVP, lives) | [site](https://balademunich.vercel.app/) |
+| **BG Finance** | Controle financeiro com login e dashboard | [site](https://bg-finance.onrender.com/) |
 | **Achei Buscador** | CEP, feriados e bancos com React + BrasilAPI | [site](https://achei-buscador.vercel.app/) |
+| **Pratique + Pilates** | Site institucional de estúdio | [site](https://pratique-pilates.vercel.app/) |
 | **BgConverter** | Conversor de câmbio com cotação ao vivo | [site](https://bgconverter.vercel.app/) |
 | **A Dois** | Caderno do casal: saídas, quem pagou e sync nos celulares | [site](https://adois-chi.vercel.app/) |
-| **BG Finance** | Controle financeiro com login e dashboard | [site](https://bg-finance.onrender.com/) |
-| **Pratique + Pilates** | Site institucional de estúdio | [site](https://pratique-pilates.vercel.app/) |
+| **Bala de Munich** | Site do time na Super Copa dos Streamers (elenco, chave, MVP, lives) | [site](https://balademunich.vercel.app/) |
 
 ## Contato
 
